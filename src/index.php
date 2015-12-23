@@ -1,1 +1,1 @@
-echo 'Hello world!. This is my new program123.'
+echo 'Hello world is my test code!.'
