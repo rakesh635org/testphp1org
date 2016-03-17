@@ -1,3 +1,3 @@
 <?php
-echo ("Hi this is PHP page1");
+echo ("Hi this is PHP page12");
 ?>
